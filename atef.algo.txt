@@ -1,0 +1,12 @@
+algorithme: Sum of sets 
+for i=O to n:
+arry =true
+sum =0
+for j= 0 to i-1
+      If arr 5[j] is equal to arr [i] :
+         arry = false
+         break 
+         If array is equal true 
+         sum = sum +arr[i]
+
+         
